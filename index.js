@@ -1,4 +1,4 @@
-//..
+//...
 "use strict";
 
 document.getElementById('app-version').innerText = APP.version;
